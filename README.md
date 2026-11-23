@@ -28,8 +28,8 @@
 
 | Documento | Conteúdo | Status |
 | --- | --- | :---: |
-| 📋 [Plano de teste](01-plano-de-teste.md) | Objetivo, escopo, abordagem, riscos e critérios | ![Em andamento](https://img.shields.io/badge/-em%20andamento-F2B705) |
-| 🧾 [Casos de teste](02-casos-de-teste.md) | Casos com pré-condição, passos, dados e resultado esperado | ![A fazer](https://img.shields.io/badge/-a%20fazer-9AA5B1) |
+| 📋 [Plano de teste](01-plano-de-teste.md) | Objetivo, escopo, abordagem, riscos e critérios | ![Concluído](https://img.shields.io/badge/-concluído-2EA043) |
+| 🧾 [Casos de teste](02-casos-de-teste.md) | Casos com pré-condição, passos, dados e resultado esperado | ![Em andamento](https://img.shields.io/badge/-em%20andamento-F2B705) |
 | 🧠 [Técnicas aplicadas](03-tecnicas-aplicadas.md) | Partição de equivalência, valor limite, tabela de decisão e transição de estados | ![A fazer](https://img.shields.io/badge/-a%20fazer-9AA5B1) |
 | 🐞 [Bug reports](04-bug-reports.md) | Defeitos encontrados, com severidade, prioridade e evidência | ![A fazer](https://img.shields.io/badge/-a%20fazer-9AA5B1) |
 
